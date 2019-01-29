@@ -1,5 +1,5 @@
 # Sudoku Game
-A fun Game created using Java and Swing
+A fun game created using Java and Swing
 
 ![](img/main.PNG)
 
