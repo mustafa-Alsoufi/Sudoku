@@ -25,7 +25,6 @@ public class result_checker implements ActionListener {
                 		gp.cell[i][j].get_tf().setEditable(false);
                 		 timer t = new timer();
                 		 t.freeze_time(true);
-                			
                     }
                 }
 			

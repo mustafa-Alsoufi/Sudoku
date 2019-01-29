@@ -16,7 +16,6 @@ public class textListener implements ActionListener{
 	public void actionPerformed(ActionEvent e) {
 		text.get_tf().setBackground(Color.green);
 		text.get_tf().setForeground(Color.GRAY);
-	//	game_page gp = new game_page(400,500);
 	}
 
 }

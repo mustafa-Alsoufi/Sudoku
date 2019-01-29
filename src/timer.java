@@ -4,7 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class timer extends Component{
-	private int curr_time = 301;
+	private int curr_time = 3;
 	private static boolean freeze = false;
 	Color color = Color.decode("#59FFA0");
 
